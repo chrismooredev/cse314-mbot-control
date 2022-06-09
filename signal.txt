@@ -1,0 +1,2 @@
+          Link Quality=70/70  Signal level=-36 dBm  
+          Link Quality=70/70  Signal level=-36 dBm  
