@@ -1,6 +1,6 @@
 # cse314-mbot-control
 
-Holds control code for an mBot Ranger, primarily within python written for a Raspberry Pi.
+Holds control code for an mBot Ranger, primarily within python written for a Raspberry Pi. Expects the mBot to have the [cse314-mrem](https://github.com/chrismooredev/cse314-mrem) program on it.
 
 ## `avg_wifi.py`
 Holds APIs to sample and average RSSI values for the currently connected WiFi network.
